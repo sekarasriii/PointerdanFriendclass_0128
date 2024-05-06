@@ -6,6 +6,7 @@ public:
 	void showNilaiPelajar(pelajar& x);
 };
 
+
 class pelajar
 {
 private:
