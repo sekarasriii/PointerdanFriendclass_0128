@@ -9,6 +9,7 @@ public:
 	{
 		cout << "No Induk = " << nim << endl;
 	}
+
 };
 
 int main()
